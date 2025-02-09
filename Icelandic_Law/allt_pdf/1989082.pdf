@@ -1,0 +1,36 @@
+Error: /undefinedfilename in (X1989082.ps)
+Operand stack:
+
+Execution stack:
+   %interp_exit   .runexec2   --nostringval--   --nostringval--   --nostringval--   2   %stopped_push   --nostringval--   --nostringval--   --nostringval--   false   1   %stopped_push   --nostringval--   --nostringval--
+Dictionary stack:
+   --dict:1049/1123(ro)(G)--   --dict:0/20(G)--   --dict:69/200(L)--
+Current allocation mode is local
+Last OS error: 2
+%PDF-1.2
+%«Ïè¢
+3 0 obj
+<< /Type /Pages /Kids [
+] /Count 0
+>>
+endobj
+1 0 obj
+<</Type /Catalog /Pages 3 0 R
+>>
+endobj
+2 0 obj
+<</Producer(AFPL Ghostscript 8.0)
+/CreationDate(D:20250124145245)
+/ModDate(D:20250124145245)>>endobj
+xref
+0 4
+0000000000 65535 f 
+0000000068 00000 n 
+0000000116 00000 n 
+0000000015 00000 n 
+trailer
+<< /Size 4 /Root 1 0 R /Info 2 0 R
+>>
+startxref
+225
+%%EOF
